@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1526065942 source:c:\users\iekuu\desktop\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1526069658 c:\users\iekuu\desktop\tp2\funciones.h
+
+1526068754 source:c:\users\iekuu\desktop\tp2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
